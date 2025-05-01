@@ -1,6 +1,3 @@
-# BLENDED_LEARNING
-# Name : Maha Vidya J P
-# Reg. No:212223220054
 # Implementation-of-Linear-Regression-for-Predicting-Car-Prices
 ## AIM:
 To write a program to predict car prices using a linear regression model and test the assumptions for linear regression.
@@ -44,11 +41,13 @@ Plot residuals against predicted values to ensure that the residuals have consta
 Plot histogram and Q-Q plot of residuals to check if they follow a normal distribution. 
 
 ## Program:
-```
+
 //*
  Program to implement linear regression model for predicting car prices and test assumptions.
-Developed by: ADITYA S
-RegisterNumber:  212223040007
+Developed by: Maha Vidya J P
+RegisterNumber:  212223220054
+//*
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
